@@ -188,9 +188,13 @@ if __name__ == "__main__":
 
     r2 = Rollo(2)
     r3 = Rollo(3) 
+    r4 = Rollo(4)
+    r5 = Rollo(5)
 
     R.append(r2)
     R.append(r3)
+    R.append(r4)
+    R.append(r5)
 
     #r2.calibrate()
 
